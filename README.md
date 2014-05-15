@@ -14,27 +14,31 @@ You are done with Importing.
 **Usage:**
 ______
 
-<com.example.beerparty.FontTextView
+Just copy inside your xml:
+
+<pre><code>	com.example.beerparty.FontTextView
                 android:id="@+id/textView10"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/name_string"
                 android:textColor="#727272"
                 android:textSize="28sp"
-                tashan:setFontFromAssets="Buffet Script.ttf" /> 
+                tashan:setFontFromAssets="Buffet Script.ttf"
+</code></pre>
 
-
-Set the font (placed inside assets folder in your project) just by giving it's name. Here font name is   "Buffet Script.ttf".
+Set the font (placed inside assets folder in your project) just by giving it's name. Here font name is  "Buffet Script.ttf".
 
 
 **Developed By**
 ____________
-+ sud007
++ Sudhanshu Singh (sud007)
 
 **Licence**
 _______
 
-The MIT License (MIT)
+
+<pre><code>
+**The MIT License (MIT)**
 
 Copyright (c) [year] [fullname]
 
@@ -55,3 +59,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+</code></pre>
