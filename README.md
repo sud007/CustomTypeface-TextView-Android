@@ -5,9 +5,11 @@ A simple custom Android Textview to enable user to change the TYPEFACE directly 
 
 **Importing:**
 __________
-1.) Copy font_text_view.xml and place it in layouts.
-2.) Copy FontTextView.java and place it inside "your.app.package". Fix the package name as per the name of the package you paste it in.
-3.) copy attrs.xml and merge/paste in res/values
+
+> 1.   Copy font_text_view.xml and place it in layouts.
+> 2.   Copy FontTextView.java and place it inside "your.app.package". Fix the package name as per the name of the package you paste it in.
+> 3.   Copy attrs.xml and merge/paste in res/values.
+
 
 You are done with Importing.
 
