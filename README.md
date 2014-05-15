@@ -3,7 +3,7 @@ CustomTypeface-TextView-Android
 
 A simple custom Android Textview to enable user to change the TYPEFACE directly from xml. With al the Textview attributes still available
 
-Importing:
+**Importing:**
 __________
 1.) Copy font_text_view.xml and place it in layouts.
 2.) Copy FontTextView.java and place it inside "your.app.package". Fix the package name as per the name of the package you paste it in.
@@ -11,7 +11,7 @@ __________
 
 You are done with Importing.
 
-Usage:
+**Usage:**
 ______
 
 <com.example.beerparty.FontTextView
@@ -27,11 +27,11 @@ ______
 Set the font (placed inside assets folder in your project) just by giving it's name. Here font name is   "Buffet Script.ttf".
 
 
-Developed By
+**Developed By**
 ____________
 + sud007
 
-Licence
+**Licence**
 _______
 
 The MIT License (MIT)
