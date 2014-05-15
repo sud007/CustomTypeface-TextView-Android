@@ -1,7 +1,7 @@
 CustomTypeface-TextView-Android
 ===============================
 
-A simple custom Android Textview to enable user to change the TYPEFACE directly from xml. With al the Textview attributes still available
+A simple custom Android Textview to enable user to change the TYPEFACE directly from xml. With all the general Textview attributes still available.
 
 **Importing:**
 __________
