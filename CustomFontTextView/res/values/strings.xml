@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">learning UI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="name_string">Sudhanshu Singh</string>
+    <string name="name_string_hindi">Sudhanshu Singh</string>
+</resources>
